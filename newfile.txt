@@ -1,4 +1,11 @@
 Demo file
+<<<<<<< HEAD
 New change  (after creating new branch)
 another change
 anohter change from UI
+||||||| 57e9f68... file newfile has changed
+New change  (after creating new branch)
+another change
+=======
+New change (after creating new branch)
+>>>>>>> parent of 57e9f68... file newfile has changed
